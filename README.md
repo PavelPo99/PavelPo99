@@ -1,4 +1,16 @@
-## Hi there 👋
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
+<div align="center">
+  <img src="https://sun1-91.userapi.com/s/v1/ig2/OqzfCJ5EGNh-HDNe-eNYwL4gGdbNzOKj6VCL5gPDn6ljPJlgm7E8pfOdQB1rQdf6G7Vxll1lWdNvyicJSGqhZxDK.jpg?size=480x480&quality=95&crop=170,70,480,480&ava=1" />
+</div>
+
+### 👨‍💻 About Me :
+I'm a beginner Ruby Developer
+
 
 <!--
 **PavelPo99/PavelPo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
