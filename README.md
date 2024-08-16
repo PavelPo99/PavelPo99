@@ -5,11 +5,11 @@
 
 
 <div align="center">
-  <img src="https://sun1-91.userapi.com/s/v1/ig2/OqzfCJ5EGNh-HDNe-eNYwL4gGdbNzOKj6VCL5gPDn6ljPJlgm7E8pfOdQB1rQdf6G7Vxll1lWdNvyicJSGqhZxDK.jpg?size=480x480&quality=95&crop=170,70,480,480&ava=1" />
+  <img src="https://sun1-91.userapi.com/s/v1/ig2/OqzfCJ5EGNh-HDNe-eNYwL4gGdbNzOKj6VCL5gPDn6ljPJlgm7E8pfOdQB1rQdf6G7Vxll1lWdNvyicJSGqhZxDK.jpg?size=480x480&quality=95&crop=170,70,480,480&ava=1" width="250" height="250"/>
 </div>
 
 ### 👨‍💻 About Me :
-I'm a beginner Ruby Developer
+<h3>I'm a beginner Ruby Developer</h3>
 
 
 <!--
